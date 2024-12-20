@@ -422,6 +422,14 @@ demo.launch(share=True, debug=True)
     - `debug=True`: Provides detailed logs for debugging purposes.
 
 ---
+### **How Function Calling Works in My Code**
+
+**Function Calling** in my code allows OpenAI to dynamically invoke specific Python functions during a conversation. Based on user input, the AI identifies the appropriate function to call, executes it, and integrates the results into its response. This capability enables the chatbot to interact with real-world data and provide intelligent, context-aware replies.
+
+For detailed explanation, [click here](#).
+
+
+---
 
 ### **Result Video**
 [Watch the chatbot in action as it monitors CO2 levels and determines ventilation needs!](https://youtu.be/-8HzmXPytvM)
