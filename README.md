@@ -426,10 +426,14 @@ demo.launch(share=True, debug=True)
 
 **Function Calling** in my code allows OpenAI to dynamically invoke specific Python functions during a conversation. Based on user input, the AI identifies the appropriate function to call, executes it, and integrates the results into its response. This capability enables the chatbot to interact with real-world data and provide intelligent, context-aware replies.
 
-For detailed explanation, [click here](#).
+For detailed explanation, [click here](https://github.com/hoohsh/jetson_chatbot/blob/main/fuction_calling.md).
 
 
 ---
 
 ### **Result Video**
 [Watch the chatbot in action as it monitors CO2 levels and determines ventilation needs!](https://youtu.be/-8HzmXPytvM)
+
+#### **Result Picture**:
+![image](https://github.com/user-attachments/assets/d841de0b-537c-4685-a4bb-d866f7571c85)
+
